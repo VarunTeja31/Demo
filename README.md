@@ -1,3 +1,3 @@
 # Demo
 
-some learning is being done
+some learning is being done!
